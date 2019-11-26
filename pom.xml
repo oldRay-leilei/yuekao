@@ -9,6 +9,8 @@
         <module>eureka_server1</module>
         <module>eureka_server2</module>
         <module>zuul_server</module>
+        <module>consumer_service</module>
+        <module>provider_service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
